@@ -1,6 +1,6 @@
 VodkaFlow-DataPipeline
 A mock data engineering project simulating an end-to-end ETL pipeline using Python, SQL, and Streamlit
-🧪 VodkaFlow: A Mock Data Engineering Pipeline 🍾
+ VodkaFlow: A Mock Data Engineering Pipeline 🍾
 
 This project simulates a full data pipeline — from raw CSV ingestion to data transformation, loading into a database, and visualization through Streamlit.
 
@@ -17,12 +17,12 @@ Tech Stack
 3. Load– Store the clean data in PostgreSQL
 4. Visualize – Use Streamlit to plot sales KPIs
 
-📂 Folder Structure
+ Folder Structure
 
 
 
 
-⚙️ How to Run
+
 VodkaFlow-DataPipeline/ ├── data/ │ └── sales_data.csv ├── scripts/ │ └── etl_pipeline.py ├── dashboard/ │ └── streamlit_app.py ├── requirements.txt └── README.md
 ```bash
 
